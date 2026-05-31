@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Padiya</h1>
 <h3 align="center">AI-Augmented Software Developer, boosting with powerful backend engineering and devops pipelines.</h3>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=700&lines=AI-Augmented+Software+Developer;Building+with+Node.js%2C+LLMs%2C+RAG+%26+GenAI;Problem+Solver;Always+Learning+🌊"
-    alt="Typing SVG"
-  />
-</p>
-
+<h4 align="center">Building with Nodejs, Python, LLM and GenAI</h3>
 ---
 
 ### 🚀 About Me
