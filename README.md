@@ -2,7 +2,7 @@
 <h3 align="center">AI-Augmented Software Developer, boosting with powerful backend engineering and devops pipelines.</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open-Source+Contributor;Problem+Solver;Always+Learning+%F0%9F%8C%8A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=AI+Augemented+Software+Developer;Building with Node js + LLM+RAG+ and + GenAI;Problem+Solver;Always+Learning+%F0%9F%8C%8A" alt="Typing SVG" />
 </p>
 
 ---
