@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Padiya</h1>
-<h3 align="center">AI-Augmented Software Developer, boosting with powerful backend engineering and devops pipelines.</h3>
-<h4 align="center">Building with Nodejs, Python, LLM and GenAI</h3>
+<h3 align="center">AI-Augmented Software Developer, boosting with powerful backend engineering and data pipelines.</h3>
+<h4 align="center">Building with Nodejs, Python,C# Azure Functions, LLM and GenAI</h3>
 ---
 
 ### 🚀 About Me
