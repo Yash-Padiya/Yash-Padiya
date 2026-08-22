@@ -10,15 +10,6 @@
 
 ---
 
-
-### 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yash-Padiya&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-Padiya&theme=radical" width="45%" />
-</div>
-
----
-
 ### 🌟 Let's Connect!
 <p align="center">
   <a href="https://in.linkedin.com/in/yash-padiyasoftwaredeveloper"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
