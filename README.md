@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 About Me
-- 🎯 **Connect me**: If you are building something crazy, I can't sit aside
+- If you are building something crazy, I can't sit aside
 - I value strong engineering and engineers, I like building scalable systems and feasible infra. 
 
 
