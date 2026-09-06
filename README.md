@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Yash Padiya</h1>
 <h3 align="center">AI-Augmented Software Developer, boosting with powerful backend engineering and data pipelines.</h3>
 <h4 align="center">Building with Nodejs, Python,C# Azure Functions, LLM and GenAI</h3>
----
+
 
 ### 🚀 About Me
+- I'm an experienced Software Dev developing, managing, scaling, fixing and monitoring global SaaS products. 
+---
+
+### 😉 My Weak Points
 - If you are building something crazy, I can't sit aside
 - I value strong engineering and engineers, I like building scalable systems and feasible infra. 
-
-
 ---
 
 ### 🌟 Let's Connect!
